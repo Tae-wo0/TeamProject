@@ -10,11 +10,11 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 
 
 ### 🧑‍🤝‍🧑 오세돌 멤버 구성
-- 팀장/김태우 - 임베딩, Whisper 사용
-- 서기/송동호 - 프론트, Firebase와 연동
-- 자료수집/지원배 - Pinecone(벡터DB)
+- 팀장/김태우 - 임베딩, Fast API, RAM 사용, 백엔드 프론트엔드 연결
+- 서기/송동호 - Flutter, Firebase와 연동
+- 자료수집/지원배 - Pinecone(벡터DB), 임베딩 및 처리속도개선, 벡터 서치, 리팩터링
 - 타임키퍼/양유진 - Firebase, Flutter와 연동, Pinecone과 연동
-- 발표/이수진 - 크롤링
+- 발표/이수진 - 크롤링, 
 
 
 ### ⚙️ 개발 환경
@@ -22,7 +22,7 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 - [`Flutter`](https://freeinformation.tistory.com/entry/Flutter-%ED%94%8C%EB%9F%AC%ED%84%B0-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EC%84%A4%EC%B9%98)
 - [`Android Studio(에뮬레이터까지 생성)`](https://freeinformation.tistory.com/entry/Flutter-%ED%94%8C%EB%9F%AC%ED%84%B0-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EC%84%A4%EC%B9%98)
 - [`Python 3.12`](https://github.com/conda-forge, "conda-forge")
-- [`ram`](https://github.com/xinyu1205/recognize-anything.git)
+- [`RAM`](https://github.com/xinyu1205/recognize-anything.git)
 - **DB** : 벡터db, Firebase
 - **패키지 매니저** : pip
 
