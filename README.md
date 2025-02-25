@@ -29,7 +29,7 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 
 ## 📌 주요 기능
 검색
-- 으아아ㅏ아앙아아
+- 추후 수정
 
 
 ## 🪄 사용한 API
