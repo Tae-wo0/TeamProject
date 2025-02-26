@@ -48,13 +48,19 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
    conda activate zim
    ```
 
-2. ram 설치
+2. xinyu1205/recognize_anything_model 다운로드
+   
+   https://huggingface.co/xinyu1205/recognize_anything_model/tree/main 접속
+   ram_swin_large_14m.pth 모델 다운로드
+   pretrained 폴더 생성 후 모델 넣기
+
+3. ram 설치
    ```
    git+https://github.com/xinyu1205/recognize-anything.git
    ```
 
 
-   2-1. 2번이 안될 시
+   3-1. 2번이 안될 시
       ```
       git clone https://github.com/xinyu1205/recognize-anything.git
 
@@ -63,19 +69,23 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
       pip install -e .
       ```
    
-4. dependencies 설치
+5. dependencies 설치
 
    requirements.txt 파일 가지고 있는 상태에서
    ```
    pip install -r requirements.txt
    ```
 
-5. api key 삽입
+6. api key 삽입
 
    api key 넣는 부분에 넣어주기 (그냥 올릴거면 삭제하기)
 
 
-6. 실행
+7. 실행
+   서버 실행 후
+   ```
+   python main.py
+   ```
    
    에뮬레이터 실행 후
    ```
