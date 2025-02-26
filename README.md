@@ -14,7 +14,7 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 - 서기/송동호 - Flutter, Firebase와 연동
 - 자료수집/지원배 - Pinecone(벡터DB), 임베딩 및 처리속도개선, 벡터 서치, 리팩터링
 - 타임키퍼/양유진 - Firebase, Flutter와 연동, Pinecone과 연동
-- 발표/이수진 - 크롤링, 
+- 발표/이수진 - 크롤링, Firestore 사용
 
 
 ### ⚙️ 개발 환경
@@ -75,6 +75,8 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
    ```
    pip install -r requirements.txt
    ```
+   실행 시 필요한거 싹 다 설치됨
+
 
 6. api key 삽입
 
