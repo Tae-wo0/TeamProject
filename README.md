@@ -25,7 +25,7 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 - [`RAM`](https://github.com/xinyu1205/recognize-anything.git)
 - **DB** : 벡터db, Firebase
 - **패키지 매니저** : pip
-
+- https://github.com/conda-forge/miniforge
 
 ## 📌 주요 기능
 벡터 임베딩
