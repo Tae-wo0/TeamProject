@@ -94,7 +94,7 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 - cmd - ipconfig - ipV4 주소 복사
 - ip주소 변경
 
-5. 실행
+6. 실행
    서버 실행 후
    ```
    python main.py
