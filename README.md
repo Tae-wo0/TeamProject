@@ -54,22 +54,7 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 - ram_swin_large_14m.pth 모델 다운로드
 - pretrained 폴더 생성 후 모델 넣기
 
-3. ram 설치
-   ```
-   git+https://github.com/xinyu1205/recognize-anything.git
-   ```
-
-
-   3-1. 2번이 안될 시
-      ```
-      git clone https://github.com/xinyu1205/recognize-anything.git
-
-      cd recognize-anything
-
-      pip install -e .
-      ```
-   
-5. dependencies 설치
+3. dependencies 설치
 
    requirements.txt 파일 가지고 있는 상태에서
    ```
@@ -78,6 +63,21 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
    실행 시 필요한거 싹 다 설치됨
 
 
+   3-1. ram 설치
+      ```
+      git+https://github.com/xinyu1205/recognize-anything.git
+      ```
+
+
+   3-2. 3-1번이 안될 시
+      ```
+      git clone https://github.com/xinyu1205/recognize-anything.git
+
+      cd recognize-anything
+
+      pip install -e .
+      ```
+   
 6. api key 삽입
 
    api key 넣는 부분에 넣어주기 (그냥 올릴거면 삭제하기)
