@@ -50,9 +50,9 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 
 2. xinyu1205/recognize_anything_model 다운로드
    
-   https://huggingface.co/xinyu1205/recognize_anything_model/tree/main 접속
-   ram_swin_large_14m.pth 모델 다운로드
-   pretrained 폴더 생성 후 모델 넣기
+- https://huggingface.co/xinyu1205/recognize_anything_model/tree/main 접속
+- ram_swin_large_14m.pth 모델 다운로드
+- pretrained 폴더 생성 후 모델 넣기
 
 3. ram 설치
    ```
