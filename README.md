@@ -92,7 +92,7 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 - 인바운드 규칙 - 새규칙
 - 포트 - 8000 - 이름(자유)
 - cmd - ipconfig - ipV4 주소 복사
-- 플루터 폴더 - 주소 입력
+- ip주소 변경
 
 5. 실행
    서버 실행 후
