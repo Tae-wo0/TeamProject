@@ -10,11 +10,11 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 
 
 ### 🧑‍🤝‍🧑 오세돌 멤버 구성
-- 팀장/김태우 - 임베딩, Fast API, RAM 사용, 백엔드 프론트엔드 연결
-- 서기/송동호 - Flutter, Firebase와 연동
+- 팀장/김태우 - 임베딩, Fast API, 백엔드 프론트엔드 연결
+- 서기/송동호 - Flutter, Firebase와 연동, OCR(Google-cloud-vision 사용)
 - 자료수집/지원배 - Pinecone(벡터DB), 임베딩 및 처리속도개선, 벡터 서치, 리팩터링
 - 타임키퍼/양유진 - Firebase, Flutter와 연동, Pinecone과 연동
-- 발표/이수진 - 크롤링, Firestore 사용
+- 발표/이수진 - 크롤링, 서류작업 처리 및 영상 편집, UI 카드 디자인
 
 
 ### ⚙️ 개발 환경
@@ -28,8 +28,10 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 
 
 ## 📌 주요 기능
-검색
-- 추후 수정
+벡터 임베딩
+- 미디어 통합 검색
+- 유연한 질의 해석
+- 의미 기반 검색
 
 
 ## 🪄 사용한 API
@@ -63,7 +65,7 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
    실행 시 필요한거 싹 다 설치됨
 
 
-   3-1. ram 설치
+   3-1. ram 설치(requirements.txt 안에 포함되어있긴 함)
       ```
       git+https://github.com/xinyu1205/recognize-anything.git
       ```
