@@ -21,7 +21,7 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 - [`JDK 17`](https://nazzang19.tistory.com/127)
 - [`Flutter`](https://freeinformation.tistory.com/entry/Flutter-%ED%94%8C%EB%9F%AC%ED%84%B0-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EC%84%A4%EC%B9%98)
 - [`Android Studio(에뮬레이터까지 생성)`](https://freeinformation.tistory.com/entry/Flutter-%ED%94%8C%EB%9F%AC%ED%84%B0-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EC%84%A4%EC%B9%98)
-- [`Python 3.12`](https://github.com/conda-forge, "conda-forge")
+- [`Python 3.10`](https://github.com/conda-forge, "conda-forge")
 - [`RAM`](https://github.com/xinyu1205/recognize-anything.git)
 - **DB** : 벡터db, Firebase
 - **패키지 매니저** : pip
