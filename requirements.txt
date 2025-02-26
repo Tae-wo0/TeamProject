@@ -1,4 +1,4 @@
-python main.py
+
 openai==1.61.1
 pinecone-client==5.0.1
 matplotlib==3.10.0
