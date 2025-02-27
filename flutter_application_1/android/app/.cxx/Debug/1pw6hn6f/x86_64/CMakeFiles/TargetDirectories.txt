@@ -1,0 +1,2 @@
+C:/Users/USER/Desktop/flutter_application_1_ui - 2/flutter_application_1/android/app/.cxx/Debug/1pw6hn6f/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/USER/Desktop/flutter_application_1_ui - 2/flutter_application_1/android/app/.cxx/Debug/1pw6hn6f/x86_64/CMakeFiles/rebuild_cache.dir
