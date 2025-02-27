@@ -26,7 +26,6 @@ K-Digital AI Bootcamp Final Project (2025 오세돌 최종 프로젝트)
 - **DB** : 벡터db, Firebase
 - **패키지 매니저** : pip
 
-
 ## 📌 주요 기능 (추후 수정)
 벡터 임베딩
 - 미디어 통합 검색
